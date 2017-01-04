@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Udacity Android ND First Project</string>
+    <string name="fromagerie">Fromagerie Laurent Dubois</string>
+    <string name="address_one">47, boulevard Saint&#8211;Germain, 75005 Paris\nOpening hours:\nTuesdays to Saturdays: 8h30&#8211;19h30\nSundays: 8h30&#8211;13h.</string>
+    <string name = "address_two">2, rue Lourmel, 75015 Paris\nOpening hours:\nTuesdays to Fridays: 9h&#8211;13h / 16h&#8211;19h45\nSaturdays: 8h30&#8211;19h45\nSundays: 9h&#8211;13h.</string>
+    <string name = "address_three">97&#8211;99 rue Saint&#8211;Antoine, 75004 Paris\nOpening hours:\nTuesdays to Saturdays: 9h&#8211;20h\nSundays: 9h&#8211;13h</string>
+</resources>
